@@ -1,2 +1,2 @@
-#Crowdfunding ETL - Project 2
+#Crowdfunding-ETL
 ETL Mini Project
